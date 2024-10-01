@@ -6,6 +6,7 @@ Hello I am George Ochocki. I am from Parma, Ohio and I attended Padua Franciscan
 <img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/05/11/GettyImages_mac-and-cheese_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1589228187607.jpeg">
 My favorite food is Mac and Cheese. 
 
+
 <a href="https://www.rit.edu/computing/department-software-engineering">RIT Software Engineering Website</a> 
 
 <body>
